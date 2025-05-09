@@ -26,3 +26,7 @@ It allows both **admin** and **normal users** to interact with the system based 
 
 1. Make sure Python is installed on your system.
 2. Clone the repo: https://github.com/bedo3016/Library_Management_System.git
+
+## 📬 Contact
+
+Feel free to reach out to me on [LinkedIn]([🔗https://www.linkedin.com/in/abdelsalam-ayman-9aa54534a) if you have any questions or suggestions!
