@@ -1,0 +1,194 @@
+[
+    {
+        "title": "The Genius Of Mohammed",
+        "author": "Abbas Mahmoud al-Aqqad",
+        "year": 1942,
+        "available": false,
+        "borrower": "Bedo",
+        "due_date": "2-13"
+    },
+    {
+        "title": "Your psychological complexes are your eternal prison",
+        "author": "Yosef Alhasany",
+        "year": 2021,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "The secret of the delay of Arabs and Muslims",
+        "author": "Mohammed AL Ghazali",
+        "year": 1985,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "The path to the Quran",
+        "author": "Ibrahim Al Sukran",
+        "year": 2018,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "To love at the age of twenty",
+        "author": "Ashraf Abdel Shafi",
+        "year": 2020,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Lavender messages",
+        "author": "Dana Al Rashed",
+        "year": 2023,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Laknaud",
+        "author": "Eslam Gamal",
+        "year": 2020,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "In The Year 2889",
+        "author": "Jules Verne",
+        "year": 2018,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Broken To Bloom",
+        "author": "Ola Tarek",
+        "year": 2021,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Pain",
+        "author": "Maryam Bissar",
+        "year": 2021,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Message of the year 2178",
+        "author": "Ismail Arafa",
+        "year": 2022,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Curse of Sa Ra",
+        "author": "Hisham Al-Gizawi",
+        "year": 2015,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "To reassure my heart",
+        "author": "Adham Al-Sharqawi",
+        "year": 2019,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "I will give you another city",
+        "author": "Ahmed Ibrahim Al-Faqih",
+        "year": 2007,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Zikola land",
+        "author": "Amr Abdel Hamid",
+        "year": 2010,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Merciless love",
+        "author": "Dina Ibrahim Roca",
+        "year": 2019,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Dawn of conscience",
+        "author": "James Henry Breasted",
+        "year": 2018,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Utopia",
+        "author": "Ahmed Khaled Tawfiq",
+        "year": 2008,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "In the rat lane",
+        "author": "Ahmed Khaled Tawfiq",
+        "year": 2016,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "The secret of room 207",
+        "author": "Ahmed Khaled Tawfiq",
+        "year": 2017,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Blue elephant",
+        "author": "Ahmed Murad",
+        "year": 2012,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Diamond dust",
+        "author": "Ahmed Murad",
+        "year": 2010,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Deer hunting season",
+        "author": "Ahmed Murad",
+        "year": 2017,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Hours between books",
+        "author": "Abbas Mahmoud Al-Akkad",
+        "year": 1945,
+        "available": true,
+        "borrower": null,
+        "due_date": null
+    }
+]
