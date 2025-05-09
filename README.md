@@ -29,4 +29,4 @@ It allows both **admin** and **normal users** to interact with the system based 
 
 ## 📬 Contact
 
-Feel free to reach out to me on [LinkedIn]([🔗https://www.linkedin.com/in/abdelsalam-ayman-9aa54534a) if you have any questions or suggestions!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/abdelsalam-ayman-9aa54534a) if you have any questions or suggestions!
